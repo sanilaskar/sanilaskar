@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laskar</h1>
 <h3 align="center">A passionate Software Engineer from BANGLADESH</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaFCqAVfPRsRONVcjdcpB2ErSyYxdZ9cmwuQ&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/93404042/200386329-e62ac7ec-958c-42be-9763-43c773b22e36.png)
+">
 
 - 🌱 I’m currently learning SQA
 - 👯 Love generating new ideas for software.
