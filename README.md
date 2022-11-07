@@ -1,7 +1,6 @@
-[![MasterHead](https://www.freepik.com/free-vector/code-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-vector-illustration_10487786.htm#query=software%20development%20banner&position=0&from_view=keyword)]
 <h1 align="center">Hi 👋, I'm Laskar</h1>
 <h3 align="center">A passionate Software Engineer from BANGLADESH</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/code-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-vector-illustration_107791-3766.jpg?w=1060&t=st=1667840625~exp=1667841225~hmac=2d1325f8b5c603a0c0dc4f429df5bbed3b4f8ee9e283c0f20ac5daa5a1be259e">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn3.vectorstock.com%2Fi%2Fthumb-large%2F09%2F92%2Fweb-development-programmer-engineering-website-vector-35780992.jpg&imgrefurl=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vectors%2Fsoftware-engineer-cartoon-vectors&tbnid=nUFcxS08HnHzyM&vet=10CE0QMyiHAWoXChMIyLbx7JGe-wIVAAAAAB0AAAAAEAM..i&docid=zdzWDkTmATxfCM&w=238&h=250&q=cartoon%20software%20engineer%20picture&ved=0CE0QMyiHAWoXChMIyLbx7JGe-wIVAAAAAB0AAAAAEAM">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
